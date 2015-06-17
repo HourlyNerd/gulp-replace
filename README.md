@@ -1,12 +1,14 @@
 # gulp-replace [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
 > A string replace plugin for gulp 3
 
+
+
 ## Usage
 
-First, install `gulp-replace` as a development dependency:
+First, install `hn-gulp-replace` as a development dependency:
 
 ```shell
-npm install --save-dev gulp-replace
+npm install --save-dev hn-gulp-replace
 ```
 
 Then, add it to your `gulpfile.js`:
@@ -78,7 +80,7 @@ Skip binary files
 [MDN documentation for RegExp]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 [MDN documentation for String.replace]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace#Specifying_a_string_as_a_parameter
 
-[travis-url]: http://travis-ci.org/lazd/gulp-replace
-[travis-image]: https://secure.travis-ci.org/lazd/gulp-replace.svg?branch=master
-[npm-url]: https://npmjs.org/package/gulp-replace
-[npm-image]: https://badge.fury.io/js/gulp-replace.svg
+[travis-url]: http://travis-ci.org/lazd/hn-gulp-replace
+[travis-image]: https://secure.travis-ci.org/lazd/hn-gulp-replace.svg?branch=master
+[npm-url]: https://npmjs.org/package/hn-gulp-replace
+[npm-image]: https://badge.fury.io/js/hn-gulp-replace.svg
