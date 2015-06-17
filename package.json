@@ -1,6 +1,6 @@
 {
-  "name": "gulp-replace",
-  "version": "0.5.3",
+  "name": "hn-gulp-replace",
+  "version": "0.1.0",
   "description": "A string replace plugin for gulp",
   "dependencies": {
     "istextorbinary": "1.0.2",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lazd/gulp-replace.git"
+    "url": "git://github.com/hourlynerd/gulp-replace.git"
   },
   "keywords": [
     "gulpplugin",
